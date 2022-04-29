@@ -34,4 +34,4 @@ python Fall_Detection.py
 ![Alt text](https://github.com/abishek2001/Fall_Detection/blob/main/Screenshot%20(8).png)
 ![Alt text](https://github.com/abishek2001/Fall_Detection/blob/main/Screenshot%20(16).png)
 ### Email Alert:
-![Alt text]()
+![Alt text](https://github.com/abishek2001/Fall_Detection/blob/main/Screenshot%20(35).png)
